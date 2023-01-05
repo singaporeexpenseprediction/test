@@ -41,7 +41,7 @@ scaler = pickle.load(pickle_in)
 # Caching the model for faster loading
 #@st.cache
 
-data = pd.read_excel("data//Singapore_preprocessed.xlsx")
+#data = pd.read_excel("data//Singapore_preprocessed.xlsx")
 
 nav = st.sidebar.radio("Menu",["Home","Prediction","Popular Hotels","Sightseeing Attractions"])
 
