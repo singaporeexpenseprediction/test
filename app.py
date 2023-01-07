@@ -67,8 +67,8 @@ if nav == "Popular Hotels":
         "Mandarin Orchard Singapore": "https://mandarin-orchard-hotel-singapore.hotel-ds.com/en/",
         "V Hotel Lavender": "https://vhotel.sg/v-hotel-lavender.shtml?gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGFUXok4UotiIu20PVFFWrnHyPNJX7GX6HdX2g8Z93d-XyMmMrQmSUcaAnnDEALw_wcB&gclsrc=aw.ds",
         "York Hotel": "https://www.yorkhotel.com.sg/",
-        "Ibis Singapore on Bencoolen": "https://all.accor.com/hotel/6657/index.en.shtml",
-        "Marina Bay Sands Singapore": "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/resorts/marina-bay-sands/",
+        "Ibis Singapore on Bencoolen": "https://www.holidify.com/hotels/ibis-hotels-in-SINGAPORE-8245.html",
+        "Marina Bay Sands Singapore": "https://www.holidify.com/hotel/a-1711.html",
         "The Elizabeth": "https://ar.trivago.com/en-145/oar/the-elizabeth-hotel-by-far-east-hospitality-singapore?tc=22&search=100-40920",
         "Royal Plaza": "https://www.royalplaza.com.sg/",
     }
