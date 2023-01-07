@@ -223,8 +223,10 @@ if nav == "Prediction":
     elif month == 'September':
         month = 9
     elif month == 'October':
-        month = 11
+        month = 10
     elif month == 'November':
+        month = 11
+    elif month == 'December':
         month = 12
 
     value11 = st.number_input("How much will be your expected baggage weight in pounds?")
