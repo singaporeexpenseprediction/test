@@ -274,9 +274,9 @@ if nav == "Sightseeing Attractions":
     # Create a dictionary of hotel URLs
     places_urls = {
         "Gardens by the Bay": "https://grant-associates.uk.com/projects/gardens-by-the-bay",
-        "Universal Studios Singapore": "https://www.pelago.co/en-SG/activity/pok40-rws-universal-studios-ticket-singapore/",
-        "Singapore Zoo": "https://www.kkday.com/en-sg/product/39249-wildlife-reserves-4-in-1-park-hopper-plus-ticket-singapore",
-        "Sentosa Island": "https://trevallog.com/sentosa-island-singapore/"
+        "Universal Studios Singapore": "https://trevallog.com/list-of-attractions-in-universal-studios-singapore-and-my-recommendations/",
+        "Singapore Zoo": "https://www.getyourguide.com/singapore-zoo-l2721/safaris-wildlife-activities-tc40/",
+        "Sentosa Island": "https://www.holidify.com/places/singapore/sentosa-island-places-to-visit-area.html"
     }
 
     # Create a radio button for each hotel
