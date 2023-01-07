@@ -273,7 +273,7 @@ if nav == "Sightseeing Attractions":
 
     # Create a dictionary of hotel URLs
     places_urls = {
-        "Gardens by the Bay": "https://grant-associates.uk.com/projects/gardens-by-the-bay",
+        "Gardens by the Bay": "https://www.holidify.com/places/singapore/gardens-by-the-bay-sightseeing-11503.html",
         "Universal Studios Singapore": "https://www.holidify.com/places/singapore/universal-studios-singapore-sightseeing-121008.html",
         "Singapore Zoo": "https://www.holidify.com/places/singapore/the-singapore-zoo-sightseeing-11501.html",
         "Sentosa Island": "https://www.holidify.com/places/singapore/sentosa-island-places-to-visit-area.html"
